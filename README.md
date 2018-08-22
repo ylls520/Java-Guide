@@ -1,39 +1,30 @@
-[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-577511615-red.svg)](//shang.qq.com/wpa/qunwpa?idkey=739cdd1ec7401e4beb1c3da382f6c1fac1f96c8d506b8519804ecd342f4cb07a)
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=739cdd1ec7401e4beb1c3da382f6c1fac1f96c8d506b8519804ecd342f4cb07a"><img border="0" src="https://user-gold-cdn.xitu.io/2018/8/10/16523ff8f095e2c9?w=90&h=22&f=png&s=1827" alt="Java面试通关手册" title="Java面试通关手册"></a>  
-备注： 此群为开源文档——Java-Guide交流群。群里会不定时分享资源以及学习资料~~~
 
+> **Java学习指南：** 一份涵盖大部分Java程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
 
-> # 目录结构
-### 1. :coffee: [Java](#coffee-Java)
-### 2. :open_file_folder: [数据结构与算法](#open_file_folder-数据结构与算法)
-### 3. :computer: [计算机网络与数据通信](#computer-计算机网络与数据通信)
-### 4. :iphone: [操作系统](#iphone-操作系统)
-### 5. :pencil2: [主流框架](#pencil2-主流框架)
-### 6. :floppy_disk: [数据存储](#floppy_disk-数据存储)
-### 7. :punch: [架构](#punch-架构)
-### 8. :musical_note: [面试必备](#musical_note-面试必备)
-### 9. :art: [其他](#art-其他)
-### 10.:envelope: [关于该开源文档的一些说明](#envelope-该开源文档一些说明)
+| Ⅰ  | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
+| :--------: | :----------: | :-----------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :----:|
+| [Java](#coffee-Java)  |  [数据结构与算法](#open_file_folder-数据结构与算法)|[计算机网络与数据通信](#computer-计算机网络与数据通信) | [操作系统](#iphone-操作系统)| [主流框架](#pencil2-主流框架)|  [数据存储](#floppy_disk-数据存储)|[架构](#punch-架构)|  [面试必备](#musical_note-面试必备)| [其他](#art-其他)| [说明](#envelope-该开源文档一些说明)|
 
-> # 正文
 ## :coffee: Java
--   ### Java/J2EE基础
-    - [Java基础知识回顾](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/Java基础知识.md)
-    - [J2EE基础知识回顾](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/J2EE基础知识.md)
--   ### Java集合框架
-    - [Java集合框架常见面试题总结](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/Java集合框架常见面试题总结.md)
-    - [ArrayList源码学习](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/ArrayList.md)    
-    - [LinkedList源码学习](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/LinkedList.md)   
+-   ### Java/J2EE 基础
+    - [Java 基础知识回顾](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/Java基础知识.md)
+    - [J2EE 基础知识回顾](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/J2EE基础知识.md)
+-   ### Java 集合框架
+    - [Java 集合框架常见面试题总结](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/Java集合框架常见面试题总结.md)
+    - [ArrayList 源码学习](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/ArrayList.md)    
+    - [LinkedList 源码学习](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/LinkedList.md)   
     - [HashMap(JDK1.8)源码学习](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/HashMap.md)  
    
--  ### Java多线程
+-  ### Java 多线程
    - [多线程系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/多线程系列.md)
 
 
-- ### Java IO与NIO
-  - [Java IO与NIO系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Java%20IO与NIO.md)
+- ### Java IO 与 NIO
+  - [Java IO 与 NIO系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Java%20IO与NIO.md)
 
 -  ### Java虚拟机（jvm）
+   - [可能是把Java内存区域讲的最清楚的一篇文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/可能是把Java内存区域讲的最清楚的一篇文章.md
+)
    - [Java虚拟机（jvm）学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Java虚拟机（jvm）.md)
 - ### 设计模式
    - [设计模式系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/设计模式.md)
@@ -62,18 +53,18 @@
 ## :iphone: 操作系统
 
 - ### Linux相关
-  - [后端程序员必备的Linux基础知识](https://github.com/Snailclimb/Java-Guide/blob/master/操作系统/后端程序员必备的Linux基础知识.md)  
+  - [后端程序员必备的 Linux 基础知识](https://github.com/Snailclimb/Java-Guide/blob/master/操作系统/后端程序员必备的Linux基础知识.md)  
 
 ## :pencil2: 主流框架
 
 - ### Spring相关
-  - [Spring学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/主流框架/Spring学习与面试.md)
+  - [Spring 学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/主流框架/Spring学习与面试.md)
 
 ## :floppy_disk: 数据存储
 - ### MySQL
-  - [MySQL学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据存储/MySQL.md)
+  - [MySQL 学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据存储/MySQL.md)
 - ### Redis
-  - [Redis学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据存储/Redis.md)
+  - [Redis 学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据存储/Redis.md)
 
 ## :punch: 架构
 - ### 分布式相关
@@ -128,4 +119,4 @@
 
 **你若盛开，清风自来。 欢迎关注我的微信公众号：“Java面试通关手册”，一个有温度的微信公众号。公众号有大量资料，回复关键字“1”你可能看到想要的东西哦！：**
 
-![](https://user-gold-cdn.xitu.io/2018/8/10/16522f1abf50b100?w=430&h=430&f=jpeg&s=39237)
+![](http://my-blog-to-use.oss-cn-beijing.aliyuncs.com/18-8-17/29079091.jpg)
