@@ -1,6 +1,8 @@
-【阿里云新人专属】阿里云双11最新活动（仅限阿里云新用户购买，老用户拉新用户可以获得返现红包，后续有机会平分百万红包），优惠力度非常非常非常大，另外加入拼团，后续还有几乎平分100w红包！**目前我的战队已经有5位新人了，现在是折上5折了。** 划重点了： **1核2G云服务器1年仅需99.5元！！！1核2G云服务器3年仅需298.50元！！！一个月仅需8.2元** 该折扣仅限新人！这是我的拼团团队地址：https://m.aliyun.com/act/team1111/#/share?params=N.FF7yxCciiM.hf47liqn （如果还有不懂的可以加我微信：bwcx9393 咨询） 文尾有详细说明哦！
+仓库新增了【备战春招/秋招系列】，希望可以为马上面临春招或者以后需要面试的小老哥助力！拟定一周更新2篇内容。
+> 腾讯云热门云产品1折起，送13000元续费/升级大礼包：https://cloud.tencent.com/redirect.php?redirect=1034&cps_key=2b96dd3b35e69197e2f3dfb779a6139b&from=console
+>
+> 腾讯云新用户大额代金券：https://cloud.tencent.com/redirect.php?redirect=1025&cps_key=2b96dd3b35e69197e2f3dfb779a6139b&from=console
 
-Gitchat 推荐：[Java 程序员必备：并发知识系统总结](https://gitbook.cn/gitchat/activity/5bc2b6af56f0425673d299bb)
 
 | Ⅰ  | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :----------: | :-----------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :----:|
@@ -23,8 +25,11 @@ Gitchat 推荐：[Java 程序员必备：并发知识系统总结](https://gitbo
    
 -  ### Java 多线程
    - [多线程系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/多线程系列.md)
-   - [Synchronized 关键字使用、底层原理、JDK1.6 之后的底层优化以及 和ReenTrantLock 的对比](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/synchronized.md)
-
+   - [并发编程面试必备：synchronized 关键字使用、底层原理、JDK1.6 之后的底层优化以及 和ReenTrantLock 的对比](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/synchronized.md)
+   - [并发编程面试必备：乐观锁与悲观锁](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/面试必备之乐观锁与悲观锁.md)
+   - [并发编程面试必备：JUC 中的 Atomic 原子类总结](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Multithread/Atomic.md)
+   - [并发编程面试必备：AQS 原理以及 AQS 同步组件总结](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Multithread/AQS.md)
+   - [BATJ都爱问的多线程面试题](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Multithread/BATJ都爱问的多线程面试题.md)
 - ### Java IO 与 NIO
   - [Java IO 与 NIO系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Java%20IO与NIO.md)
 
@@ -86,8 +91,14 @@ Gitchat 推荐：[Java 程序员必备：并发知识系统总结](https://gitbo
 
 ## :musical_note: 面试必备
 
-- ### 面试必备知识点
-    - [面试必备之乐观锁与悲观锁](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/面试必备之乐观锁与悲观锁.md)
+- ### 备战春招/秋招系列
+
+    - [【备战春招/秋招系列1】程序员的简历就该这样写](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/程序员的简历之道.md)
+        - [手把手教你用Markdown写一份高质量的简历](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/手把手教你用Markdown写一份高质量的简历.md)
+    - [【备战春招/秋招系列2】初出茅庐的程序员该如何准备面试？](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/interviewPrepare.md)
+    - [【备战春招/秋招系列3】Java程序员必备书单](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/books.md)   
+    - [ 【备战春招/秋招系列4】美团面经总结基础篇 （附详解答案）](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/美团-基础篇.md)   
+
 - ### 最最最常见的Java面试题总结
    这里会分享一些出现频率极其极其高的面试题，初定周更一篇，什么时候更完什么时候停止。
    
@@ -95,14 +106,10 @@ Gitchat 推荐：[Java 程序员必备：并发知识系统总结](https://gitbo
     - [第二周（2018-8-13）](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第二周(2018-8-13).md)(String和StringBuffer、StringBuilder的区别是什么？String为什么是不可变的？、什么是反射机制？反射机制的应用场景有哪些？......)
     - [第三周（2018-08-22）](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/这几道Java集合框架面试题几乎必问.md) （Arraylist 与 LinkedList 异同、ArrayList 与 Vector 区别、HashMap的底层实现、HashMap 和 Hashtable 的区别、HashMap 的长度为什么是2的幂次方、HashSet 和 HashMap 区别、ConcurrentHashMap 和 Hashtable 的区别、ConcurrentHashMap线程安全的具体实现方式/底层具体实现、集合框架底层数据结构总结）
     - [第四周(2018-8-30).md](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第四周(2018-8-30).md) （主要内容是几道面试常问的多线程基础题。）
-- ### 程序员如何写简历
-    - [程序员的简历之道](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/程序员的简历之道.md)
-    - [手把手教你用Markdown写一份高质量的简历](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/手把手教你用Markdown写一份高质量的简历.md)
+
     
 ## :art: 其他  
 
-- ### 个人书单推荐
-    - [个人阅读书籍清单](https://github.com/Snailclimb/Java-Guide/blob/master/其他/个人阅读书籍清单.md)  
 
 - ### 技术方向选择
     - [选择技术方向都要考虑哪些因素](https://github.com/Snailclimb/Java-Guide/blob/master/其他/选择技术方向都要考虑哪些因素.md) 
@@ -135,9 +142,7 @@ Gitchat 推荐：[Java 程序员必备：并发知识系统总结](https://gitbo
 
 本人会利用业余时间一直更新下去，目前还有很多地方不完善，一些知识点我会原创总结，还有一些知识点如果说网上有比较好的文章了，我会把这些文章加入进去。您也可以关注我的微信公众号：“Java面试通关手册”，我会在这里分享一些自己的原创文章。 另外该文档格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
 
-## 阿里云活动推荐
-
-阿里云双11最新活动（仅限阿里云新用户购买，老用户拉新用户可以获得返现红包，后续有机会平分百万红包），优惠力度非常非常非常大，另外加入拼团，后续还有几乎平分100w红包！划重点了：1核2G云服务器1年仅需99.5元！！！该折扣仅限新人！这是我的拼团团队地址：https://m.aliyun.com/act/team1111/#/share?params=N.FF7yxCciiM.hf47liqn （如果还有不懂的可以加我微信：bwcx9393 咨询） 举个栗子：以原价1020元的云服务器ECS（t5 1c2g+1M+40G高效云盘） 为例，双11新用户专享价为199元，如果您成功拉一个新人拼团，您和团员都将享受折上9折优惠，199*90%=179.1元，将返还您和团员每人19.9元。随着您拉新人数增多，享受折扣将不断叠加， 当您参加的团中有6个及以上新用户时，您和团员即可享受折上5折优惠，即199元的云服务器再打5折，可享受99.5元的优惠价，将返还您和团员购买价减去99.5元的差价。希望大家加入拼团之后尽自己力量邀请时候身边的阿里云新人参团，这样你可以获得最高1111的红包，而且后面如果团队拉的新人在前100名的话就可以平分100w红包。老用户也可以选择参加下面的活动！
+## 推荐一下阿里云服务
 
 > 阿里云技术有保障，在云服务技术上远远领先于国内其他云服务提供商。大家或者公司如果需要用到云服务器的话，推荐阿里云服务器，下面是阿里云目前正在做的一些活动，错过这波，后续可能多花很多钱：
 
